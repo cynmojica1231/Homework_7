@@ -1,0 +1,30 @@
+body {
+  background-image: url("../Assets/Images/office1.jpg");
+  background-size: auto;
+}
+.container {
+  color:#f9a7b0"
+}
+.border-bottom {
+  padding-bottom: 110px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.border-bottom-width {
+  padding-bottom: 40px;
+}
+
+.card-body h3 {
+  font-size: 18px;
+}
+.card-body h4 {
+  font-size: 18px;
+}
+
+.card-body h5 {
+  font-size: 18px;
+}
+.card-body h6 {
+  font-size: 18px;
+}
