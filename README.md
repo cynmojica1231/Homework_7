@@ -6,12 +6,10 @@ https://github.com/cynmojica1231/Homework_7.git
 
 ## About Me (Screenshot)
 
-Updated Porfolio: Recreated portfolio from my portfolio created in the beginning of the course.
 ![Display Search](./Assets/Images/AboutMe.jpg)
 
 ## Portfolio (Screenshot)
 
-Updated Porfolio: Recreated portfolio from my portfolio created in the beginning of the course.
 ![Display Search](./Assets/Images/portfolio.jpg)
 
 ### 3. Updated Resume
