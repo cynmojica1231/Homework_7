@@ -12,15 +12,15 @@ https://github.com/cynmojica1231/Homework_7.git
 
 ![Display Search](./Assets/Images/portfolio.jpg)
 
-### 3. Updated Resume
+### Updated Resume
 
 ![Display Search](./Assets/Images/CM Resume.pdf)
 
-### 4. Updated LinkedIn Profile
+### Updated LinkedIn Profile
 
 💁 My LinkedIn: https://www.linkedin.com/in/cynthia-mojica-aa1408b1
 
-### 4. Updated Github Profile
+### Updated Github Profile
 
 💁 My Github: https://github.com/cynmojica1231
 
