@@ -6,11 +6,11 @@ https://github.com/cynmojica1231/Homework_7.git
 
 ## About Me (Screenshot)
 
-![Display Search](./Assets/Images/AboutMe.jpg)
+![Display Search](./Assets/Images/AboutMe.png)
 
 ## Portfolio (Screenshot)
 
-![Display Search](./Assets/Images/portfolio.jpg)
+![Display Search](./Assets/Images/portfolio.png)
 
 ### Updated Resume
 
