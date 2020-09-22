@@ -6,15 +6,15 @@ https://github.com/cynmojica1231/Homework_7.git
 
 ## About Me (Screenshot)
 
-![Display Search](Assets/Images/AboutMe.png)
+![Display Search](Images/AboutMe.jpg)
 
 ## Portfolio (Screenshot)
 
-![Display Search](./Assets/Images/portfolio.png)
+![Display Search](Images/portfolio.jpg)
 
 ### Updated Resume
 
-![Display Search](./Assets/Images/CM Resume.pdf)
+![Display Search](Images/CM Resume.pdf)
 
 ### Updated LinkedIn Profile
 
