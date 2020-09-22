@@ -6,7 +6,7 @@ https://github.com/cynmojica1231/Homework_7.git
 
 ## About Me (Screenshot)
 
-![Display Search](./Assets/Images/AboutMe.png)
+![Display Search](Assets/Images/AboutMe.png)
 
 ## Portfolio (Screenshot)
 
