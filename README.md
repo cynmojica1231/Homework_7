@@ -18,11 +18,11 @@ https://github.com/cynmojica1231/Homework_7.git
 
 ### 4. Updated LinkedIn Profile
 
-💁 My LinkedIn: https://www.linkedin.com/in/cynthia-mojica-aa1408b1"
+💁 My LinkedIn: https://www.linkedin.com/in/cynthia-mojica-aa1408b1
 
 ### 4. Updated Github Profile
 
-💁 My Github: https://github.com/cynmojica1231"
+💁 My Github: https://github.com/cynmojica1231
 
 ## Tools Used
 
