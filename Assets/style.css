@@ -108,6 +108,7 @@ body {
   line-height: 24px;
   width: 100%;
 }
+
 #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {
@@ -124,7 +125,7 @@ body {
   height: auto;
   display: inline-block;
   border-radius: 3px;
-  margin-left: 26%;
+  margin-left: 10px;
 }
 #contact button.submit:hover {
   color: #0d0d0d;
@@ -141,7 +142,7 @@ body {
   padding: 24px 24px;
   margin-bottom: 36px;
   width: 65%;
-  margin-left: 26%;
+  margin-left: 1%;
 }
 #message-warning {
   color: #d72828;
